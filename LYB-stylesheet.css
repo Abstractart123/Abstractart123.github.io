@@ -1,0 +1,65 @@
+
+* {
+    box-sizing: border-box;
+ }   
+
+
+img {
+
+    width: 110px;
+
+    height: 110px;
+
+}
+
+.left {
+	float: left;
+}
+
+span {
+	margin: -0.5em 0 0 0;
+}
+
+.small {
+	height: 2em;
+	width: 2em;
+	margin: -0.3em 0.5em 0 -0.5em;
+}
+
+
+body {
+	border: 5px groove gray;
+}
+.header {
+border: 5px groove gray;
+}
+.content {
+	border: 5px groove gray;
+}
+menu {
+	border: 5px groove gray;
+}
+footer {
+	border: 5px groove gray;
+}
+
+body {
+    width: 70%;
+    height: 100%;
+    margin: 3em auto;
+    padding: 0;
+}
+.header {
+    height: 8.5em;
+}
+.content {
+    margin: 5px auto;
+}
+menu {
+	margin: 0 auto;
+	padding: 5px 10px;
+	width: 100%;
+}
+footer {
+    padding: 0.625em;
+}
