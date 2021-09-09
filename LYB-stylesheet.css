@@ -63,3 +63,16 @@ menu {
 footer {
     padding: 0.625em;
 }
+
+ .menu-img {
+	display: flex;
+	margin: auto;
+}
+menu {
+	text-align: center;
+}
+
+background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
+
+background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
+
