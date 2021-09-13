@@ -34,6 +34,7 @@ span {
 
 body {
     background: linear-gradient(to bottom, #33ccff 0%, #ffff99 100%);
+    background-repeat: no-repeat;
 }
 
 
