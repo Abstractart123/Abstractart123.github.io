@@ -32,11 +32,14 @@ span {
 }
 
 
-body {
-    background: linear-gradient(to bottom, #33ccff 0%, #ffff99 100%);
-    background-repeat: no-repeat;
-}
 
+body { 
+  background: background: linear-gradient(to bottom, #33ccff 0%, #ffff99 100%); no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 body {
 	border: 5px groove gray;
