@@ -1,6 +1,9 @@
 
 * {
     box-sizing: border-box;
+background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
+
+background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
  }   
 
 
@@ -72,7 +75,5 @@ menu {
 	text-align: center;
 }
 
-background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
 
-background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
 
