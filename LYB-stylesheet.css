@@ -31,8 +31,11 @@ span {
 	
 }
 
-div {
-  background-color: lightblue;
+body {
+  background: #85a0be;
+  color: #354453;
+  line-height: 1.6;
+  padding: 1rem;
 }
 
 
@@ -41,6 +44,7 @@ body {
 	
 }
 .header {
+	
 border: 5px groove gray;
 }
 .content {
