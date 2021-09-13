@@ -1,9 +1,7 @@
 
 * {
     box-sizing: border-box;
-background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
 
-background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
  }   
 
 
@@ -12,41 +10,35 @@ img {
     width: 110px;
 
     height: 110px;
-	background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
 
-background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
 
 }
 
 .left {
 	float: left;
-	background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
 
-background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
 }
 
 span {
 	margin: -0.5em 0 0 0;
-	background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
-
-background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
+	
 }
 
 .small {
 	height: 2em;
 	width: 2em;
 	margin: -0.3em 0.5em 0 -0.5em;
-	background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
+	
+}
 
-background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
+body {
+  background-color: radial-gradient(#ffd24d 25%, #e6ac00 85%);
 }
 
 
 body {
 	border: 5px groove gray;
-	background: radial-gradient(#ffd24d 25%, #e6ac00 85%);
-
-background: linear-gradient(#ffd24d 25%, #e6ac00 85%);
+	
 }
 .header {
 border: 5px groove gray;
