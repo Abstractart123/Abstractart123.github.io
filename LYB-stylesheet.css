@@ -76,6 +76,11 @@ menu {
 	padding: 5px 10px;
 	width: 100%;
 }
+
+<div>
+padding: 0.625em;
+</div>
+
 footer {
     padding: 0.625em;
 }
